@@ -1,0 +1,14 @@
+{
+  "name": "electron-with-java-key-logger",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.0.3",
+    "electron-builder": "^23.6.0"
+  },
+  "dependencies": {}
+}

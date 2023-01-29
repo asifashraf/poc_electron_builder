@@ -1,0 +1,1 @@
+javascript-obfuscator main.js --output main.obf.js --compact false --deadCode-injection true --debug-protection false --disable-console-output true --identifier-names-generator "hexadecimal" --rename-globals true --rotate-string-array true --self-defending true --string-array true --string-array-encoding rc4 --transform-object-keys true

@@ -1,0 +1,17 @@
+## fs extra functions
+copySync
+emptyDirSync
+ensureFileSync
+ensureDirSync
+ensureLinkSync
+ensureSymlinkSync
+mkdirpSync
+mkdirsSync
+moveSync
+outputFileSync
+outputJsonSync
+pathExistsSync
+readJsonSync
+removeSync
+writeJsonSync
+
